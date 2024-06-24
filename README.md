@@ -10,7 +10,7 @@
 
 ## Experiencia en docencia
 - **Docente de Programación de Microcontroladores**
-  Como docente, enseñé a programar microcontroladores a alumnos de nivel terciario técnico. Desarrollé planes de estudio, impartí clases teóricas y prácticas, y guié a los estudiantes en proyectos prácticos relacionados con sistemas embebidos.
+  Como docente, enseño a programar microcontroladores a alumnos de nivel terciario técnico. Desarrollo planes de estudio, imparto clases teóricas y prácticas, y guio a los estudiantes en proyectos prácticos relacionados con sistemas embebidos.
 
 ## CV
 Puedes encontrar mi currículum vitae en formato PDF en este repositorio. Si tienes alguna pregunta o deseas contactarme, no dudes en enviar un correo electrónico a germanvelardez16@gmail.com.
